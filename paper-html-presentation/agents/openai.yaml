@@ -1,0 +1,3 @@
+interface:
+  display_name: "文献 HTML 组会展示"
+  short_description: "把一篇论文制作成可直接分享的 HTML 文献汇报"
